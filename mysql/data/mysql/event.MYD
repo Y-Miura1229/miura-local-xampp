@@ -1,0 +1,25 @@
+2020-02-21 15:06:50 0 [Note] Reading of all Master_info entries succeeded
+2020-02-21 15:06:50 0 [Note] Added new Master_info '' to hash table
+2020-02-21 15:06:50 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.3.16-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2020-02-21 15:07:08 39 [ERROR] mysqld.exe: 表 'user' は壊れています。修復が必要です。
+2020-02-21 15:07:12 41 [ERROR] mysqld.exe: 表 'user' は壊れています。修復が必要です。
+2020-02-21 15:07:13 43 [ERROR] mysqld.exe: 表 'user' は壊れています。修復が必要です。
+2020-02-21 15:07:14 45 [ERROR] mysqld.exe: 表 'user' は壊れています。修復が必要です。
+2020-02-21 15:07:15 47 [ERROR] mysqld.exe: 表 'user' は壊れています。修復が必要です。
+2020-02-21 15:07:24 49 [ERROR] mysqld.exe: 表 'user' は壊れています。修復が必要です。
+2020-02-21 15:07:32 51 [ERROR] mysqld.exe: 表 'user' は壊れています。修復が必要です。
+2020-02-21 15:07:32 51 [Warning] ソート処理を中断しました。, host: localhost, user: root, thread: 51, query: SELECT * FROM `user` ORDER BY `Password`  DESC LIMIT 0, 25
+2020-02-21 15:07:36 53 [ERROR] mysqld.exe: 表 'user' は壊れています。修復が必要です。
+2020-02-21 15:07:36 53 [Warning] ソート処理を中断しました。, host: localhost, user: root, thread: 53, query: SELECT * FROM `user` ORDER BY `Password`  DESC LIMIT 0, 25
+2020-02-21 15:07:43 55 [ERROR] mysqld.exe: 表 'user' は壊れています。修復が必要です。
+2020-02-21 15:07:43 55 [Warning] ソート処理を中断しました。, host: localhost, user: root, thread: 55, query: SELECT * FROM `user` ORDER BY `Password`  DESC LIMIT 0, 25
+2020-02-21 15:07:46 57 [ERROR] mysqld.exe: 表 'user' は壊れています。修復が必要です。
+2020-02-21 15:07:46 57 [Warning] ソート処理を中断しました。, host: localhost, user: root, thread: 57, query: SELECT * FROM `user` ORDER BY `Password`  DESC LIMIT 0, 25
+2020-02-21 15:09:41 65 [ERROR] Got an error from thread_id=65, D:\winx64-packages\build\src\storage\myisam\ha_myisam.cc:1048
+2020-02-21 15:09:41 65 [ERROR] MySQL thread id 65, OS thread handle 10436, query id 412 localhost 127.0.0.1 root Checking table
+check table user
+2020-02-21 15:09:41 65 [ERROR] mysqld.exe: Table '.\mysql\user' is marked as crashed and should be repaired
+2020-02-21 15:09:41 65 [Warning] Checking table:   '.\mysql\user'
+2020-02-21 15:09:41 65 [Warning] Recovering table: '.\mysql\user'
+2020-02-21 15:09:41 65 [Note] mysqld.exe: Making backup of data file .\mysql\user.MYD with extension '-200221150941.BAK'

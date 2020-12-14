@@ -1,0 +1,12 @@
+11 27, 2019 4:52:49 ŒßŒã org.apache.catalina.core.ApplicationContext log
+î•ñ: ContextListener: contextInitialized()
+11 27, 2019 4:52:49 ŒßŒã org.apache.catalina.core.ApplicationContext log
+î•ñ: SessionListener: contextInitialized()
+11 27, 2019 4:52:49 ŒßŒã org.apache.catalina.core.ApplicationContext log
+î•ñ: ContextListener: attributeAdded('StockTicker', 'async.Stockticker@e5190a')
+11 27, 2019 4:52:49 ŒßŒã org.apache.catalina.core.ApplicationContext log
+î•ñ: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@156a792')
+11 27, 2019 5:31:37 ŒßŒã org.apache.catalina.core.ApplicationContext log
+î•ñ: SessionListener: contextDestroyed()
+11 27, 2019 5:31:37 ŒßŒã org.apache.catalina.core.ApplicationContext log
+î•ñ: ContextListener: contextDestroyed()
